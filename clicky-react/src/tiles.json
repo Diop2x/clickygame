@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "name": "Saskue",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976073/fc892e478e36064312516ff775f4eaba_oimk4j.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Itachi",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560975988/latest_q6gd17.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Kakasi",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560975956/latest_d4wjt5.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Naruto",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560975878/latest_xhdwkf.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Rock Lee",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976187/latest_lnnwxp.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Sakura",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976289/latest_q4qf6z.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Toad Sage",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976378/latest_rh0nsl.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Nagato",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976480/latest_ui3gvw.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Yamato",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976553/latest_y5gywc.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Kankuro",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976597/latest_qizlbx.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Kabuto",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976674/latest_cocnjw.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Might Guy",
+    "image": "https://res.cloudinary.com/dxsrlfyyb/image/upload/v1560976717/latest_dd7kwc.png",
+    "clicked": false
+  }
+]
